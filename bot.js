@@ -6,7 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("598186095896821773")
 setInterval(function() {
-channel.send(`DL |ITz_Dirilis DL |ITz_Dirilis ITz_Dirilis ITz_Dirilis ITz_Dirilis ITz_Dirilis DL |ITz_Dirilis DL |ITz_Dirilis ITz_Dirilis ITz_Dirilis ITz_Dirilis ITz_Dirilis DL |ITz_Dirilis DL |ITz_Dirilis ITz_Dirilis ITz_Dirilis ITz_Dirilis ITz_Dirilis`);
+channel.send(`spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam `);
 }, 30)
 })
 
